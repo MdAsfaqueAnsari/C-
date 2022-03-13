@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\ConsoleApp1\IfIfIfIfLoop\bin\Debug\IfIfIfIfLoop.exe.config
+C:\Users\lenovo\source\repos\ConsoleApp1\IfIfIfIfLoop\bin\Debug\IfIfIfIfLoop.exe
+C:\Users\lenovo\source\repos\ConsoleApp1\IfIfIfIfLoop\bin\Debug\IfIfIfIfLoop.pdb
+C:\Users\lenovo\source\repos\ConsoleApp1\IfIfIfIfLoop\obj\Debug\IfIfIfIfLoop.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\source\repos\ConsoleApp1\IfIfIfIfLoop\obj\Debug\IfIfIfIfLoop.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\ConsoleApp1\IfIfIfIfLoop\obj\Debug\IfIfIfIfLoop.exe
+C:\Users\lenovo\source\repos\ConsoleApp1\IfIfIfIfLoop\obj\Debug\IfIfIfIfLoop.pdb

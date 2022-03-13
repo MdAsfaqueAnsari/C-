@@ -1,0 +1,8 @@
+C:\Users\lenovo\source\repos\ConsoleApp1\IfIfElse\bin\Debug\IfIfElse.exe.config
+C:\Users\lenovo\source\repos\ConsoleApp1\IfIfElse\bin\Debug\IfIfElse.exe
+C:\Users\lenovo\source\repos\ConsoleApp1\IfIfElse\bin\Debug\IfIfElse.pdb
+C:\Users\lenovo\source\repos\ConsoleApp1\IfIfElse\obj\Debug\IfIfElse.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\source\repos\ConsoleApp1\IfIfElse\obj\Debug\IfIfElse.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\ConsoleApp1\IfIfElse\obj\Debug\IfIfElse.exe
+C:\Users\lenovo\source\repos\ConsoleApp1\IfIfElse\obj\Debug\IfIfElse.pdb
+C:\Users\lenovo\source\repos\ConsoleApp1\IfIfElse\obj\Debug\IfIfElse.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\ConsoleApp1\Program4\bin\Debug\Program4.exe.config
+C:\Users\lenovo\source\repos\ConsoleApp1\Program4\bin\Debug\Program4.exe
+C:\Users\lenovo\source\repos\ConsoleApp1\Program4\bin\Debug\Program4.pdb
+C:\Users\lenovo\source\repos\ConsoleApp1\Program4\obj\Debug\Program4.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\source\repos\ConsoleApp1\Program4\obj\Debug\Program4.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\ConsoleApp1\Program4\obj\Debug\Program4.exe
+C:\Users\lenovo\source\repos\ConsoleApp1\Program4\obj\Debug\Program4.pdb
